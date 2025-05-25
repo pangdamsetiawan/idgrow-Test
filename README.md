@@ -77,7 +77,7 @@ php artisan serve
 Akses aplikasi di: http://localhost:8000
 
 
-🐳 Jalankan Menggunakan Docker
+🐳 Cara MenJalankan Menggunakan Docker
 
 1. **Copy .env File**
     cp .env.example .env
